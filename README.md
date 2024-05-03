@@ -13,14 +13,19 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 - ### Language:
   [![Language](https://skillicons.dev/icons?i=ts,ruby,python)](https://skillicons.dev)
 - ### Platform / Cloud Services:
-  [![Platform](https://skillicons.dev/icons?i=aws,docker,ubuntu)](https://skillicons.dev)
+  [![Platform](https://skillicons.dev/icons?i=aws,docker,linux,ubuntu)](https://skillicons.dev)
 - ### Backend:
-  [![Backend](https://skillicons.dev/icons?i=nodejs,graphql,rails,nginx)](https://skillicons.dev)
+  [![Backend](https://skillicons.dev/icons?i=nodejs,express,apollo,graphql,rails,django,nginx)](https://skillicons.dev)
+- ### Package Manager:
+  [![Backend](https://skillicons.dev/icons?i=yarn,npm,pnpm)](https://skillicons.dev)
 - ### Database / ORMs:
-  [![Database](https://skillicons.dev/icons?i=postgres,elasticsearch,mongodb,mysql,firebase,sequelize)](https://skillicons.dev)
+  [![Database](https://skillicons.dev/icons?i=postgres,elasticsearch,dynamodb,mongodb,mysql,firebase,redis,sequelize,sqlite)](https://skillicons.dev)
+- ### Message Brokers:
+  [![Message Brokers](https://skillicons.dev/icons?i=rabbitmq,redis,kafka)](https://skillicons.dev)
 - ### Frontend:
-  [![Frontend](https://skillicons.dev/icons?i=angular,scss,css,html)](https://skillicons.dev)
-
+  [![Frontend](https://skillicons.dev/icons?i=angular,d3,scss,jquery,css,html)](https://skillicons.dev)
+- ### Other Tools:
+  [![Other Tools](https://skillicons.dev/icons?i=postman,vscode,pug)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
