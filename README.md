@@ -10,7 +10,7 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,mongodb,mysql,nginx,nodejs,postgres,redis,firebase,sequelize,graphql,ruby,rails,angular,ts,js,scss,html,css)](https://skillicons.dev)
+[![My dasdasdasd](https://skillicons.dev/icons?i=aws,docker,elasticsearch,mongodb,mysql,nginx,nodejs,postgres,redis,firebase,sequelize,graphql,ruby,rails,angular,ts,js,scss,html,css)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
