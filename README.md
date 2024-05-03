@@ -10,7 +10,7 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=node,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,mongodb,mysql,nginx,nodejs,postgres,redis,firebase,sequelize,graphql,ruby,rails,angular,ts,js,scss,html,css)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
@@ -27,7 +27,9 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/samir-acharya-684bb2183/)
+- Connect with me on [LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/samir-acharya-684bb2183/)
+- [![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,firebase,graphql,angular,ts,js,html,css)](https://skillicons.dev)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
