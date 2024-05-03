@@ -10,11 +10,16 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 
 ## Tech Stack
-- #Language: [![Language](https://skillicons.dev/icons?i=ts,ruby,python)](https://skillicons.dev)
-- #Cloud/Platform: [![Cloud/Platform](https://skillicons.dev/icons?i=aws,docker,ubuntu,nginx)](https://skillicons.dev)
-- #Backend: [![Backend](https://skillicons.dev/icons?i=nodejs,graphql,rails)](https://skillicons.dev)
-- #Database: [![Database](https://skillicons.dev/icons?i=postgres,elasticsearch,mongodb,mysql,firebase,sequelize)](https://skillicons.dev)
-- #Frontend: [![Frontend](https://skillicons.dev/icons?i=angular,scss,css,html)](https://skillicons.dev)
+- ### Language:
+  [![Language](https://skillicons.dev/icons?i=ts,ruby,python)](https://skillicons.dev)
+- ### Platform / Cloud Services:
+  [![Platform](https://skillicons.dev/icons?i=aws,docker,ubuntu)](https://skillicons.dev)
+- ### Backend:
+  [![Backend](https://skillicons.dev/icons?i=nodejs,graphql,rails,nginx)](https://skillicons.dev)
+- ### Database / ORMs:
+  [![Database](https://skillicons.dev/icons?i=postgres,elasticsearch,mongodb,mysql,firebase,sequelize)](https://skillicons.dev)
+- ### Frontend:
+  [![Frontend](https://skillicons.dev/icons?i=angular,scss,css,html)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
