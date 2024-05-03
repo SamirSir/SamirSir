@@ -27,9 +27,7 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/samir-acharya-684bb2183/)
-- [![My Skills](https://skillicons.dev/icons?i=aws,docker,elasticsearch,firebase,graphql,angular,ts,js,html,css)](https://skillicons.dev)
-
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/samir-acharya-684bb2183/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
