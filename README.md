@@ -10,7 +10,7 @@ I am a passionate B.Sc. CSIT student at Tribhuwan University, driven by a curios
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=node.js,AWS,Serverless,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node,ts,js,html,css)](https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
